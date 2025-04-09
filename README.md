@@ -5,9 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **AI & ML**
 - 🌱 I’m currently learning **full-stack development**
-- 💬 Ask me about **C, C++, Java, Python, HTML, CSS, JavaScript, SQL**
 - 📫 How to reach me: arunabhabanerjee5@gmail.com
 - ⚡ Fun fact: I love solving problems and automating boring stuff!
 
