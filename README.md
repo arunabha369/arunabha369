@@ -34,7 +34,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunabha369&layout=compact&theme=tokyonight" alt="Top languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arunabha369&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 ---
