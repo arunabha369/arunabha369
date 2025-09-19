@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate developer who loves to build and learn.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arunabha369/arunabha369/main/assets/assets/assets/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arunabha369/arunabha369/main/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabha369&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" /> </p>
  
