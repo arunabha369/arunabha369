@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **DSA, OOP, OS, DBMS and MERN**
 
--  👨‍💻 &nbsp;Read more about my projects at [GitHub](https://github.com/arunabha369?tab=repositories)
+-  👨‍💻 &nbsp;Read more about mea at [Portfolio Website](https://www.arunabha.dev/)
 
 - ⚡ Fun fact: **Sherlock mode: Bug solved! 🕵️‍♂️🐞**
 
