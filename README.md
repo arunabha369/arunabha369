@@ -172,6 +172,9 @@
 ---
 ## 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=arunabha369&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arunabha369&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunabha369&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunabha369&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
